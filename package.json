@@ -1,0 +1,9 @@
+{
+  "name": "environment-api",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "influx": "^4.1.0"
+  }
+}
